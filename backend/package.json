@@ -1,0 +1,14 @@
+{
+  "name": "minicompiler-backend",
+  "version": "1.0.0",
+  "description": "MiniCompiler backend (preprocessor + lexer simulation)",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
