@@ -72,6 +72,10 @@ The main purpose of this project is to provide an interactive way to understand 
 
 Instead of studying compiler phases only theoretically, users can enter C-like source code and observe how it is processed through different stages of compilation.
 
+## Project Preview
+
+![Educational Mini Compiler Preview](./screenshots/compiler-preview.png)
+
 ## Author
 
 **Stuti Tyagi**
